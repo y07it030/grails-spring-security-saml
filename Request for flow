@@ -1,0 +1,5 @@
+Dear Owners - I am actually trying to implement grails-spring-security-saml plugin for the first time in our grails app.
+
+So not understading the flow where to do changes unless I understand the full flow of this code like how sp is integrated to idp ? sp.xml and idp.xml fields relevant for this code
+
+Would be great some documentation can be provided pls ??
